@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Fish Eye Grill",
+  "description": "A premium Southern hospitality restaurant website featuring steaks, seafood, and a Gemini-powered menu assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
